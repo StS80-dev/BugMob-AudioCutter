@@ -8,7 +8,7 @@ Cut, split and tag **MP3, FLAC, M4A and WAV** files without re-encoding, so the 
 
 ## Download
 
-Get the latest version from the **[Releases page](../../releases/latest)**: `BugMob AudioCutter.exe`.
+Get the latest version from the **[Releases page](../../releases/latest)**: `BugMob_AudioCutter.exe`.
 
 - Windows 10 / 11
 - .NET Framework 4.8 (already part of Windows 10 / 11)
@@ -48,7 +48,7 @@ Prefer an installer-style experience with automatic updates? It is also availabl
 
 ## Check your download
 
-The SHA-256 of `BugMob AudioCutter.exe` is:
+The SHA-256 of the program file is:
 
 ```
 66cdfe5b7a4c4825aa70bb64765d51ce8323a0f0676a26b52a044655a3d0dd00
@@ -57,7 +57,7 @@ The SHA-256 of `BugMob AudioCutter.exe` is:
 To check it in PowerShell:
 
 ```powershell
-Get-FileHash "BugMob AudioCutter.exe" -Algorithm SHA256
+Get-FileHash .\BugMob_AudioCutter.exe -Algorithm SHA256
 ```
 
 The same hash is on the release page and in the `.sha256` file. (The Microsoft Store version is a different package and has a different hash.)
