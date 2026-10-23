@@ -12,7 +12,7 @@ Get the latest version from the **[Releases page](../../releases/latest)**: `Bug
 
 - Windows 10 / 11
 - .NET Framework 4.8 (already part of Windows 10 / 11)
-- A single file, about 454 KB. No installation.
+- A single file, about 461 KB. No installation.
 
 Prefer an installer-style experience with automatic updates? It is also available from the [Microsoft Store](https://apps.microsoft.com/detail/9NQN898DQ2HZ).
 
@@ -51,7 +51,7 @@ Prefer an installer-style experience with automatic updates? It is also availabl
 The SHA-256 of the program file is:
 
 ```
-66cdfe5b7a4c4825aa70bb64765d51ce8323a0f0676a26b52a044655a3d0dd00
+5842d61c6ae8963e531d80a59f1b8ea430e67d931194a8c6e62319944a517bf3
 ```
 
 To check it in PowerShell:
@@ -68,11 +68,11 @@ The program is not code-signed, so Windows SmartScreen may show a warning the fi
 
 ## License
 
-Free for personal and commercial use. The audio files you create belong to you.
+Free for personal and commercial use. The audio files you create with it are entirely yours.
 
-The program is copyrighted by BugMob. All rights reserved. Copying, modifying, reverse engineering, rebranding, selling or redistributing the program requires written permission from the author. Provided "as is", without warranty.
+© 2026 BugMob. All rights reserved. The source code is not published. Modifying, decompiling, rebranding, selling or redistributing the program, in whole or in part, requires written permission from the author. Provided “as is”, without warranty.
 
-The source code is not published.
+Full terms: [bugmob.com/terms](https://bugmob.com/terms)
 
 ## Links
 
