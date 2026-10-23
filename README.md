@@ -76,6 +76,6 @@ The source code is not published.
 
 ## Links
 
-- Website: [bugmob.com/apps/audiocutter](https://bugmob.com/apps/audiocutter/)
+- Website: [bugmob.com/audiocutter](https://bugmob.com/audiocutter?iz=github)
 - Microsoft Store: [BugMob AudioCutter](https://apps.microsoft.com/detail/9NQN898DQ2HZ)
 
