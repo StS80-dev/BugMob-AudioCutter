@@ -70,7 +70,7 @@ The program is not code-signed, so Windows SmartScreen may show a warning the fi
 
 Free for personal and commercial use. The audio files you create belong to you.
 
-The program is copyrighted by BugMob. All rights reserved. Copying, modifying, reverse engineering, rebranding, selling or redistributing the program requires written permission from the author. Provided "as is", without warranty. Full terms: [bugmob.com/uslovi](https://bugmob.com/uslovi).
+The program is copyrighted by BugMob. All rights reserved. Copying, modifying, reverse engineering, rebranding, selling or redistributing the program requires written permission from the author. Provided "as is", without warranty.
 
 The source code is not published.
 
